@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="inicio2.aspx" title="Inicio"  description="">
+        <siteMapNode url="Lugar.aspx" title="Tipos de Lugares"  description="" >
+          <siteMapNode url="PaginaValidadora/LugarCorrecto.aspx" title="Validando Lugares Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorLugar.aspx" title="Error Al validar Lugares" />
+          </siteMapNode>
+        <siteMapNode url="Comida.aspx" title="Tipos de Comida"  description="" >
+           <siteMapNode url="PaginaValidadora/ComidaCorrecta.aspx" title="Validando Comidas Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorComida.aspx" title="Error Al validar Comidas" />
+          </siteMapNode>
+        <siteMapNode url="Transporte.aspx" title="Tipos De transporte y horarios"  description="" >
+          <siteMapNode url="PaginaValidadora/TransporteCorrecto.aspx" title="Validando Transportes Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorTransporte.aspx" title="Error Al validar Transportes" />
+        </siteMapNode>
+        <siteMapNode url="Bebestibles.aspx" title="Tipos de Bebestibles"  description="">
+          <siteMapNode url="PaginaValidadora/BebestibleValidado.aspx" title="Validando Bebestibles Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorBebestible.aspx" title="Error Al validar Bebestible" />
+          </siteMapNode>
+        <siteMapNode url="Musica.aspx" title="Tipos De Musica"  description="" >
+          <siteMapNode url="PaginaValidadora/MusicaCorrecta.aspx" title="Validando Musicas Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorMusica.aspx" title="Error Al validar Musica" />
+          </siteMapNode>
+        <siteMapNode url="Varios.aspx" title="Otros Servicios"  description="" >
+          <siteMapNode url="PaginaValidadora/VariosCorrecto.aspx" title="Validando Varios Disponibles" />
+          <siteMapNode url="PaginaDeErrores/ErrorVarios.aspx" title="Error Al validar Varios" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

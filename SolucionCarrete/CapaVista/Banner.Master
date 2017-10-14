@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Banner.master.cs" Inherits="CapaVista.Banner" %>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Inicio</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" >
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="FormBanner" runat="server">
+<div class="container">
+    <div class="row">
+        
+        <div class="col-md-12">
+            <div class="form-control">
+                
+            <asp:Button ID="btnLugar" runat="server" Text="Lugar" CssClass="btn-dark" PostBackUrl="~/Lugar.aspx"/>
+            <asp:Button ID="btnComida" runat="server" Text="Comidas" CssClass="btn-info" PostBackUrl="~/Comida.aspx"/>
+            <asp:Button ID="btnTransporte" runat="server" Text="Transporte" CssClass="btn-dark" PostBackUrl="~/Transporte.aspx"/>
+            <asp:Button ID="btnBebestibles" runat="server" Text="Bebestibles" CssClass="btn-danger" PostBackUrl="~/Bebestibles.aspx"/>
+            <asp:Button ID="btnMusica" runat="server" Text="Musica" CssClass="btn-info" PostBackUrl="~/Musica.aspx"/>
+            <asp:Button ID="btnVarios" runat="server" Text="Varios" CssClass="btn-danger" PostBackUrl="~/Varios.aspx"/>
+      
+                     </div>
+        </div>
+        
+        <asp:SiteMapPath ID="SMPCarrete" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+            <CurrentNodeStyle ForeColor="#333333" />
+            <NodeStyle Font-Bold="True" ForeColor="#990000" />
+            <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
+            <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+        </asp:SiteMapPath>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+        <asp:ContentPlaceHolder ID="CPHBanner" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+        </div>
+ 
+        </div>
+    </div>
+    </form>
+</body>
+</html>

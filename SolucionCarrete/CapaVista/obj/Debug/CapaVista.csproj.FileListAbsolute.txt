@@ -1,0 +1,99 @@
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\csc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\vbc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\CapaVista.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\CapaVista.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\CapaVista.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\obj\Debug\CapaVista.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionCarrete\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\ApplicationInsights.config
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\csc.exe
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\vbc.exe
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\CapaVista.dll.config
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\CapaVista.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\CapaVista.pdb
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionCarrete\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\ApplicationInsights.config
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\CapaVista.dll.config
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\CapaVista.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\CapaVista.pdb
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.Web.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Alumno\Desktop\SolucionCarrete\CapaVista\obj\Debug\CapaVista.pdb
